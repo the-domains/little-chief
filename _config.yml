@@ -1,0 +1,14 @@
+layout_spectrum: 0.5970194
+typography_spectrum: 0.7956989
+color:
+  saturation: 0.9767025
+  brandStrength: 1
+  lightness: 0.6397849
+  brandColors:
+    - '#1F1E21'
+    - '#4B88BC'
+    - '#CDB39B'
+    - '#774B3A'
+    - '#E86E5D'
+  rhythmicContrast: 0.8028674
+name: Little Chief
