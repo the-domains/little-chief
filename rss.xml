@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Little Chief]]></title>
         <description><![CDATA[Little Chief]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/little-chief/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 12:15:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 12:15:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/little-chief/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fatherbear]]></title>
+            <description><![CDATA[<article><h1>Fatherbear</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58dae851-e809-4832-9c99-4b279ce18c84.png"></article>]]></description>
+            <link>https://thegrid.ai/little-chief/fatherbear/index.html</link>
+            <guid isPermaLink="false">3ee8ed3d-9e77-43df-a889-7b1a05bb1ac9</guid>
+            <pubDate>Thu, 17 Mar 2016 12:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bae]]></title>
             <description><![CDATA[<article><h1>Bae</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b59286-ec0b-4be7-ac3b-53880b7b5bb9.png"></article>]]></description>
-            <link>undefinedbae/index.html</link>
+            <link>https://thegrid.ai/little-chief/bae/index.html</link>
             <guid isPermaLink="false">e88ce3c8-4723-44ba-a174-5c9a5a395368</guid>
             <pubDate>Thu, 17 Mar 2016 12:15:00 GMT</pubDate>
         </item>
