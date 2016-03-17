@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7956989
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7831541
 color:
   saturation: 0.2956989
   brandStrength: 0.4784946
-  lightness: 0.5268817
+  rhythmicContrast: 0.8028674
   brandColors:
     - '#03030E'
     - '#4B4B4B'
     - '#E0F1F4'
     - '#B4A388'
     - '#877766'
-  rhythmicContrast: 0.8028674
+  lightness: 0.5268817
 layout_spectrum: 0.5970194
 name: Little Chief
