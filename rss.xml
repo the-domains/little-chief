@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Little Chief]]></title>
         <description><![CDATA[Little Chief]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/little-chief/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 12:24:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 09:53:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/little-chief/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Emily ]]></title>
-            <description><![CDATA[<article><h1>My Emily </h1><p>My Emily</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a131e38-4dbe-42e1-81de-dfb29f0004d9.png"></article>]]></description>
-            <link>undefinedmy-emily/index.html</link>
+            <description><![CDATA[<article><h1>My Emily </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a131e38-4dbe-42e1-81de-dfb29f0004d9.png"></article>]]></description>
+            <link>https://thegrid.ai/little-chief/my-emily/index.html</link>
             <guid isPermaLink="false">0f9f0be8-b308-4cdc-af84-4a063eb98c81</guid>
             <pubDate>Thu, 17 Mar 2016 12:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr Morris]]></title>
+            <description><![CDATA[<article><h1>Mr Morris</h1><p>My new logo</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1ed96c-1669-4ef1-bb2a-52c441c14233.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1ed96c-1669-4ef1-bb2a-52c441c14233.jpg</link>
+            <guid isPermaLink="false">4523c9b5-2155-4ac3-9366-1319b904c4c6</guid>
+            <pubDate>Thu, 04 Aug 2016 09:53:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
